@@ -1,1 +1,0 @@
-C:\Dotnet\TimeMate\.sonarqube\out\0
